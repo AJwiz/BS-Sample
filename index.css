@@ -1,0 +1,35 @@
+body {
+    background-color: bisque;
+}
+
+.box {
+    padding: 60px 10px;
+}
+
+.smallbox {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 40px 10px;
+    margin: 50px 0px;
+}
+
+i,
+p {
+    color: rgb(219, 83, 83);
+}
+
+t {
+    color: blue;
+}
+
+g {
+    color: black;
+}
+
+.cont {
+    margin: 25px 0px;
+}
+
+a {
+    border-bottom: 2px solid blueviolet;
+}
